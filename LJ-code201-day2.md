@@ -1,3 +1,7 @@
+Troubles:
+-UBuntu still not working.  Luckily Chris was able to contact me via slack and walk me through virtual box.  Ubuntu seems to be working there.
+
+Notes in class:
 - Windows users will be asigned to windows TA (chris).  He will be responsible for grading our assignments.
 - All classes will be on youtube for future review (unknown...)
 - slack and canvas best form of communication
@@ -37,3 +41,18 @@ directory for computer = "root"/codefellows/201
 3. code .bashrc
 
 assignment = codefellows/201
+
+What i accomplished?
+- learned some JS
+	- if and else statements refresher
+	- console and log
+	- alerts
+- Some refresher with HTML
+- Was able to to finish my code assignment (for now).
+- read chapters for reading assignment and submitted quiz.
+- successfully got linux on a virtual machine.  Special thanks to Chris!
+
+Questions/concerns
+- Are we learning to enter JS code into our HTML files?  our reading seems to indicate having separate files for all 3.
+- When are reading assignments due?  The due date says right before class.
+- Hopefully virtual box/machine will be sufficient.
